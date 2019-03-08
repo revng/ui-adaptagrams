@@ -1,0 +1,1 @@
+library_from_makefile_am(avoid)
